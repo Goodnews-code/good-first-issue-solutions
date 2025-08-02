@@ -1,5 +1,5 @@
-# @collabo-community/good-first-issue-solutions
-New contributors working on **topic: good first issue** tickets from the community project board are to submit their solutions to this repository. Start your contribution journey at **@collabo-community** here: [docs.collabo.community/first-timer-contributor](https://docs.collabo.community/first-timer-contributor)
+# @collabocate-osc/good-first-issue-solutions
+New contributors working on **topic: good first issue** tickets from the community project board are to submit their solutions to this repository. Start your contribution journey at **@collabocate-osc** here: [docs.collabo.community/first-timer-contributor](https://docs.collabo.community/first-timer-contributor)
 
 #
 
