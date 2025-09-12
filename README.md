@@ -7,7 +7,7 @@ New contributors working on **topic: git & github workflow** + **topic: good fir
 
 Awesome participants who completed our "good first issue [GIT & GITHUB WORKFLOW]" series 👏🏼 👏🏼 👏🏼
 
-[![All Contributors](https://img.shields.io/github/all-contributors/collabocate-osc/good-first-issue-GIT-solutions?color=ee8449&style=flat-square)](#awesome-participants-who-completed-our-good-first-issue-series---) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://docs.collabo.community/projects-overview)
+[![All Contributors](https://img.shields.io/github/all-contributors/collabocate-osc/good-first-issue-GIT-solutions?color=ee8449&style=flat-square)](#git--github-champions) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://docs.collabo.community/projects-overview)
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
