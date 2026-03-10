@@ -1,5 +1,5 @@
 # @collabocate-osc/good-first-issue-GIT-solutions
-New contributors working on **topic: git & github workflow** + **topic: good first issue** tickets from the community project board, are to submit their solutions to this repository. Start your contribution journey at **@collabocate-osc** here: [docs.collabo.community/first-timer-contributor](https://docs.collabo.community/first-timer-contributor)
+New contributors working on **topic: git & github workflow** + **topic: good first issue** tickets from the community project board, are to submit their solutions to this repository. Start your contribution journey at **@collabocate-osc** here: [resources.collabocate.community/first-timer-contributor](https://resources.collabocate.community/first-timer-contributor)
 
 #
 
